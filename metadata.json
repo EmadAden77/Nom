@@ -1,0 +1,8 @@
+{
+  "name": "Remix SelfieCraft - Saudi Everyday Smartphone Selfie Prompt Engine",
+  "description": "An intelligent, location-driven smartphone selfie prompt engine calibrated for Saudi everyday authenticity, physically plausible camera geometry, and pre-facelift Range Rover Sport contexts for ChatGPT Images \u0026 Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
